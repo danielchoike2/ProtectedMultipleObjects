@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedMultipleObjects", "ProtectedMultipleObjects\ProtectedMultipleObjects.csproj", "{8E63A55E-EF7A-4DED-9382-9D37A20CD0F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E63A55E-EF7A-4DED-9382-9D37A20CD0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E63A55E-EF7A-4DED-9382-9D37A20CD0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E63A55E-EF7A-4DED-9382-9D37A20CD0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E63A55E-EF7A-4DED-9382-9D37A20CD0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D7D1C6-E93E-41DB-A4EB-1A0EFC406AFE}
+	EndGlobalSection
+EndGlobal
